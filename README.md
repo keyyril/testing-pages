@@ -12,11 +12,11 @@ Just a random dude trying/testing pages <br>
 | 2026 | Charles Leclerc | Lewis Hamilton |
 
 <br>
-Its not delusional Ferrari <mark>WILL</mark> win the <mark>WDC</mark> and <mark>Constructors</mark> championship.
+Its not delusional Ferrari <mark>WILL</mark> win the WDC <mark>AND</mark> Constructors championship.
 
 <br>
 
 - [x] Create github account
-- [x] Make a private page
+- [x] Make a page public
 - [ ] Watch Fallout season 2
 
