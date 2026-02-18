@@ -1,4 +1,4 @@
-#D1(17/2/26) Testing-Pages 
+# D1(17/2/26) Testing Github pages
 Just a random dude trying/testing pages <br>
 
 | YEAR | WDC | RUNNER-UP  |                                 
@@ -23,5 +23,6 @@ Just look at our lineup..24/7 <mark>aura farming</mark>
 - [x] Make a page public
 - [ ] Watch Fallout season 2
 
-#D2(18/2/26) Planned-Projects 
+# D2(18/2/26) Planned-Projects 
+1. Cool car prices <mark>PREDICTION</mark> - appreciate/depreciate - tons of high HD pics
 
